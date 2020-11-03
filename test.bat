@@ -4,4 +4,4 @@
 
 start .\bin\Debug\UptimeFileProject.exe
 
-"C:\Program Files\Cppcheck"\cppcheck.exe --verbose --enable=all --xml --output-file=cppCheckResults.xml .
+"C:\Program Files\Cppcheck"\cppcheck.exe --verbose --enable=all --xml --check-config --output-file=cppCheckResults.xml .
