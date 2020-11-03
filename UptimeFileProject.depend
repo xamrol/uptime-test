@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1604363656 source:c:\users\toshiba c55\documents\codeblocksprojects\uptimefileproject\calculator.cpp
+	"calculator.h"
+	<iostream>
+	<string>
+	<cmath>
+	<ctime>
+
+1603885427 c:\users\toshiba c55\documents\codeblocksprojects\uptimefileproject\calculator.h
+	<string>
+
+1604363880 source:c:\users\toshiba c55\documents\codeblocksprojects\uptimefileproject\main.cpp
+	<iostream>
+	<string>
+	<fstream>
+	<cmath>
+	"calculator.h"
+
